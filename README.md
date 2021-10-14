@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine, Vapor 4**
 
-- 👨‍💻 All of my projects are available at [josbach.dev](josbach.dev)
+- 👨‍💻 All of my projects are available at [josbach.dev](https://josbach.dev)
 
 - 💬 Ask me about **iOS, React Native, Flutter**
 
