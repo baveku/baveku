@@ -28,7 +28,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=baveku&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baveku&theme=dark&layout=compact)](https://github.com/baveku/prozer-bazel)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baveku&theme=dark&layout=compact)](https://github.com/baveku/prozer-bazel) -->
 
 ---
 
