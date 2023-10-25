@@ -46,7 +46,7 @@
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=baveku&theme=github-compact)
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=baveku&theme=dark&hide_border=false" width = 500>
+[![GitHub Streak](https://streak-stats.demolab.com?user=baveku&theme=swift)](https://git.io/streak-stats)
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=baveku&show_icons=true&theme=dark" width = 500> -->
 
