@@ -6,11 +6,11 @@
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="261">
 - 🔭 I’m currently working on [Bitu](https://bitu.vn)
 
-- 🌱 I’m currently learning **Unity3D** to make special game for my pussycat.
+- 🌱 I’m currently learning **Unreal Engine** to make special game for my pussycat.
 
 - 👨‍💻 All of my projects are available at [josbach.dev](https://josbach.dev)
 
-- 💬 Ask me about **iOS, React Native, Flutter, Unity3D**
+- 💬 Ask me about **iOS, React Native, Flutter, Unreal Engine**
 
 - 📫 How to reach me **contact@josbach.dev**
 
